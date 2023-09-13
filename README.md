@@ -1,9 +1,12 @@
-# automatic-plant-watering-system-using-iot
+# Automatic Plant Watering System Using IoT
 
 Watering, often known as irrigation, is the artificially assigning water to land or soil. It&#39;s used to help with agricultural crop production, environmental maintenance, and the revegetation of damaged soils in arid places and during dry seasons. Watering the plants according to their needs is crucial. Irrigation that is either too little or too much might damage plants.
 Using several sensors, the autonomous plant watering system assesses the state of the environment and soil. Various sensors and wireless communication technologies are connected to support smart irrigation, from assessing soil moisture levels to preparing for changing weather conditions. The benefits of these technologies are long-term since every drop of water saved by smart irrigation contributes significantly to global water conservation. Smart irrigation is gaining traction in domestic applications such as schoolyards, municipal parks, and community botanical gardens. Smart irrigation has successfully revolutionized the status quo of farming being completely reliant on good weather conditions and has aided in increasing agricultural products. (Research, 2018)
 ## Block Diagram
+
 <img width="487" alt="image" src="https://user-images.githubusercontent.com/70069991/167580941-59359422-f567-4fd7-8965-db267489a63e.png">
+
+## Flow Chart
 
 <img width="318" alt="image" src="https://user-images.githubusercontent.com/70069991/167581065-424fd535-5038-4259-973c-cb32b380c167.png">
 #output:
