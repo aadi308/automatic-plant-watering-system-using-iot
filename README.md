@@ -16,6 +16,7 @@ Using several sensors, the autonomous plant watering system assesses the state o
 
 
 ## Output:
+
 <img width="443" alt="image" src="https://user-images.githubusercontent.com/70069991/167581165-e646de20-73b2-4755-ba80-29991915f40e.png">
 
 <img width="435" alt="image" src="https://user-images.githubusercontent.com/70069991/167581226-cf666528-cc63-4f05-a119-96aa9e658ba9.png">
